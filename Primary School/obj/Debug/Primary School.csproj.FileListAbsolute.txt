@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\bin\Debug\Primary School.exe.config
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\bin\Debug\Primary School.exe
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\bin\Debug\Primary School.pdb
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\obj\Debug\Primary School.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\obj\Debug\Primary School.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\obj\Debug\Primary_School.Form1.resources
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\obj\Debug\Primary_School.Properties.Resources.resources
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\obj\Debug\Primary School.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\obj\Debug\Primary School.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\obj\Debug\Primary School.exe
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\obj\Debug\Primary School.pdb
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\obj\Debug\Primary_School.Form2.resources
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\obj\Debug\Primary_School.trophy.resources
+C:\Users\User\Desktop\Software Dev\C# Assignments\Primary School\obj\Debug\Primary_School.Form3.resources
